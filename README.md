@@ -1,6 +1,6 @@
 [![Docs](https://img.shields.io/badge/Docs-brainreg-blue)](https://brainglobe.info/documentation/brainreg/index.html)
 [![Get in Touch](https://img.shields.io/badge/Get%20in%20Touch-BrainGlobe-blue)](https://brainglobe.info/contact.html)
-[![DOI](https://img.shields.io/badge/DOI-10.1038%2Fs41598-021-04676-9-green)](https://doi.org/10.1038/s41598-021-04676-9)
+[![DOI](https://img.shields.io/badge/DOI-10.1038%2Fs41598--021--04676--9-green)](https://doi.org/10.1038/s41598-021-04676-9)
 [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
 [![Tests](https://img.shields.io/github/actions/workflow/status/AlgoFoe/brainreg/test_and_deploy.yml?branch=main)](https://github.com/AlgoFoe/brainreg/actions)
 [![Codecov](https://codecov.io/gh/AlgoFoe/brainreg/graph/badge.svg?token=FbPgwBIGnd)](https://codecov.io/gh/AlgoFoe/brainreg)
